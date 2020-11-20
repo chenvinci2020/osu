@@ -1,6 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <TargetFramework>netstandard2.1</TargetFramework>
+        <Authors>MATRIX-feather</Authors>
+        <Copyright>Copyright (c) 2020 MATRIX-feather</Copyright>
+        <PackageProjectUrl>https://github.com/matrix-feather/osu</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/matrix-feather/osu</RepositoryUrl>
+        <PackageTags />
+        <Company />
     </PropertyGroup>
   <ItemGroup>
     <EmbeddedResource Include="Fonts\**\*" />
